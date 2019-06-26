@@ -1,0 +1,345 @@
+卷 软件 的文件夹 PATH 列表
+卷序列号为 00000018 D66B:2789
+D:.
++---.idea
+|   \---libraries
++---apps
+|   +---goods
+|   |   +---migrations
+|   |   |   \---__pycache__
+|   |   \---__pycache__
+|   +---trade
+|   |   +---migrations
+|   |   |   \---__pycache__
+|   |   \---__pycache__
+|   +---users
+|   |   +---migrations
+|   |   |   \---__pycache__
+|   |   \---__pycache__
+|   +---user_operation
+|   |   +---migrations
+|   |   |   \---__pycache__
+|   |   \---__pycache__
+|   \---__pycache__
++---db_tools
+|   \---data
+|       \---__pycache__
++---extra_apps
+|   +---DjangoUeditor
+|   |   +---static
+|   |   |   \---ueditor
+|   |   |       +---dialogs
+|   |   |       |   +---anchor
+|   |   |       |   +---attachment
+|   |   |       |   |   +---fileTypeImages
+|   |   |       |   |   \---images
+|   |   |       |   +---background
+|   |   |       |   |   \---images
+|   |   |       |   +---charts
+|   |   |       |   |   \---images
+|   |   |       |   +---emotion
+|   |   |       |   |   \---images
+|   |   |       |   +---gmap
+|   |   |       |   +---help
+|   |   |       |   +---image
+|   |   |       |   |   \---images
+|   |   |       |   +---insertframe
+|   |   |       |   +---link
+|   |   |       |   +---map
+|   |   |       |   +---music
+|   |   |       |   +---preview
+|   |   |       |   +---scrawl
+|   |   |       |   |   \---images
+|   |   |       |   +---searchreplace
+|   |   |       |   +---snapscreen
+|   |   |       |   +---spechars
+|   |   |       |   +---table
+|   |   |       |   +---template
+|   |   |       |   |   \---images
+|   |   |       |   +---video
+|   |   |       |   |   \---images
+|   |   |       |   +---webapp
+|   |   |       |   \---wordimage
+|   |   |       +---lang
+|   |   |       |   +---en
+|   |   |       |   |   \---images
+|   |   |       |   \---zh-cn
+|   |   |       |       \---images
+|   |   |       +---php
+|   |   |       +---themes
+|   |   |       |   \---default
+|   |   |       |       +---css
+|   |   |       |       \---images
+|   |   |       +---third-party
+|   |   |       |   +---codemirror
+|   |   |       |   +---highcharts
+|   |   |       |   |   +---adapters
+|   |   |       |   |   +---modules
+|   |   |       |   |   \---themes
+|   |   |       |   +---snapscreen
+|   |   |       |   +---SyntaxHighlighter
+|   |   |       |   +---video-js
+|   |   |       |   |   \---font
+|   |   |       |   +---webuploader
+|   |   |       |   \---zeroclipboard
+|   |   |       \---_examples
+|   |   |           \---server
+|   |   +---templates
+|   |   \---__pycache__
+|   \---xadmin
+|       +---.tx
+|       +---locale
+|       |   +---de_DE
+|       |   |   \---LC_MESSAGES
+|       |   +---en
+|       |   |   \---LC_MESSAGES
+|       |   +---es_MX
+|       |   |   \---LC_MESSAGES
+|       |   +---eu
+|       |   |   \---LC_MESSAGES
+|       |   +---id_ID
+|       |   |   \---LC_MESSAGES
+|       |   +---ja
+|       |   |   \---LC_MESSAGES
+|       |   +---lt
+|       |   |   \---LC_MESSAGES
+|       |   +---nl_NL
+|       |   |   \---LC_MESSAGES
+|       |   +---pl
+|       |   |   \---LC_MESSAGES
+|       |   +---pt_BR
+|       |   |   \---LC_MESSAGES
+|       |   +---ru_RU
+|       |   |   \---LC_MESSAGES
+|       |   \---zh_Hans
+|       |       \---LC_MESSAGES
+|       +---migrations
+|       |   \---__pycache__
+|       +---plugins
+|       |   \---__pycache__
+|       +---static
+|       |   \---xadmin
+|       |       +---css
+|       |       |   \---themes
+|       |       +---js
+|       |       \---vendor
+|       |           +---autotype
+|       |           +---bootstrap
+|       |           |   +---css
+|       |           |   +---fonts
+|       |           |   \---js
+|       |           +---bootstrap-clockpicker
+|       |           +---bootstrap-datepicker
+|       |           |   +---css
+|       |           |   \---js
+|       |           |       \---locales
+|       |           +---bootstrap-image-gallery
+|       |           |   +---css
+|       |           |   +---img
+|       |           |   \---js
+|       |           +---bootstrap-modal
+|       |           |   +---css
+|       |           |   +---img
+|       |           |   \---js
+|       |           +---bootstrap-multiselect
+|       |           |   +---css
+|       |           |   \---js
+|       |           +---bootstrap-timepicker
+|       |           |   +---css
+|       |           |   \---js
+|       |           +---flot
+|       |           +---font-awesome
+|       |           |   +---css
+|       |           |   \---fonts
+|       |           +---jquery
+|       |           +---jquery-ui
+|       |           +---load-image
+|       |           +---select2
+|       |           +---selectize
+|       |           \---snapjs
+|       +---templates
+|       |   \---xadmin
+|       |       +---auth
+|       |       |   +---password_reset
+|       |       |   \---user
+|       |       +---blocks
+|       |       +---edit_inline
+|       |       +---filters
+|       |       +---forms
+|       |       +---grids
+|       |       +---includes
+|       |       +---layout
+|       |       +---views
+|       |       \---widgets
+|       +---templatetags
+|       |   \---__pycache__
+|       +---views
+|       |   \---__pycache__
+|       \---__pycache__
++---media
+|   +---banner
+|   +---brands
+|   +---goods
+|   |   \---images
+|   \---message
+|       \---images
++---templates
++---venv
+|   +---Include
+|   |   \---pygame
+|   +---Lib
+|   |   +---collections
+|   |   |   \---__pycache__
+|   |   +---distutils
+|   |   |   \---__pycache__
+|   |   +---encodings
+|   |   |   \---__pycache__
+|   |   +---importlib
+|   |   |   \---__pycache__
+|   |   +---site-packages
+|   |   |   +---pip
+|   |   |   |   +---_internal
+|   |   |   |   |   +---cli
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---commands
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---models
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---operations
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---req
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---utils
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---vcs
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   \---__pycache__
+|   |   |   |   +---_vendor
+|   |   |   |   |   +---cachecontrol
+|   |   |   |   |   |   +---caches
+|   |   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---certifi
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---chardet
+|   |   |   |   |   |   +---cli
+|   |   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---colorama
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---distlib
+|   |   |   |   |   |   +---_backport
+|   |   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---html5lib
+|   |   |   |   |   |   +---filters
+|   |   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   |   +---treeadapters
+|   |   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   |   +---treebuilders
+|   |   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   |   +---treewalkers
+|   |   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   |   +---_trie
+|   |   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---idna
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---lockfile
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---msgpack
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---packaging
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---pep517
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---pkg_resources
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---progress
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---pytoml
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---requests
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---urllib3
+|   |   |   |   |   |   +---contrib
+|   |   |   |   |   |   |   +---_securetransport
+|   |   |   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   |   +---packages
+|   |   |   |   |   |   |   +---backports
+|   |   |   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   |   |   +---ssl_match_hostname
+|   |   |   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   |   +---util
+|   |   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   +---webencodings
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   \---__pycache__
+|   |   |   |   \---__pycache__
+|   |   |   +---pip-19.1.1.dist-info
+|   |   |   +---pkg_resources
+|   |   |   |   +---extern
+|   |   |   |   |   \---__pycache__
+|   |   |   |   +---_vendor
+|   |   |   |   |   +---packaging
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   \---__pycache__
+|   |   |   |   \---__pycache__
+|   |   |   +---setuptools
+|   |   |   |   +---command
+|   |   |   |   |   \---__pycache__
+|   |   |   |   +---extern
+|   |   |   |   |   \---__pycache__
+|   |   |   |   +---_vendor
+|   |   |   |   |   +---packaging
+|   |   |   |   |   |   \---__pycache__
+|   |   |   |   |   \---__pycache__
+|   |   |   |   \---__pycache__
+|   |   |   +---setuptools-41.0.1.dist-info
+|   |   |   +---wheel
+|   |   |   |   +---cli
+|   |   |   |   |   \---__pycache__
+|   |   |   |   \---__pycache__
+|   |   |   +---wheel-0.33.4.dist-info
+|   |   |   \---__pycache__
+|   |   \---__pycache__
+|   +---Scripts
+|   \---tcl
+|       +---tcl8.6
+|       |   +---encoding
+|       |   +---http1.0
+|       |   +---msgs
+|       |   +---opt0.4
+|       |   \---tzdata
+|       |       +---Africa
+|       |       +---America
+|       |       |   +---Argentina
+|       |       |   +---Indiana
+|       |       |   +---Kentucky
+|       |       |   \---North_Dakota
+|       |       +---Antarctica
+|       |       +---Arctic
+|       |       +---Asia
+|       |       +---Atlantic
+|       |       +---Australia
+|       |       +---Brazil
+|       |       +---Canada
+|       |       +---Chile
+|       |       +---Etc
+|       |       +---Europe
+|       |       +---Indian
+|       |       +---Mexico
+|       |       +---Pacific
+|       |       +---SystemV
+|       |       \---US
+|       \---tk8.6
+|           +---demos
+|           |   \---images
+|           +---images
+|           +---msgs
+|           \---ttk
+\---vueshop
+    \---__pycache__
