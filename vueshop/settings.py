@@ -81,6 +81,8 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
+                'social_django.context_processors.backends',
+                'social_django.context_processors.login_redirect',
             ],
         },
     },
@@ -139,7 +141,11 @@ USE_TZ = False # DateTimeField Grades.gdate received a naive datetime (2017-06-1
 
 
 AUTHENTICATION_BACKENDS = (
+    'social_core.backends.weibo.WeiboOAuth2',
+    'social_core.backends.qq.QQOAuth2',
+    'social_core.backends.weixin.WeixinOAuth2',
     'users.views.CutomBackend',
+    'django.contrib.auth.backends.ModelBackend',
 )
 
 # Static files (CSS, JavaScript, Images)
@@ -200,3 +206,15 @@ REST_FRAMEWORK_EXTENSIONS = {
 #         }
 #     }
 # }
+# 第三方登录key和secret配置
+# 微博
+SOCIAL_AUTH_WEIBO_KEY = '1458129973'
+SOCIAL_AUTH_WEIBO_SECRET = '3439d8472f562cc3fd2e03cc33dbe4ce'
+# QQ
+SOCIAL_AUTH_QQ_KEY = 'foobar'
+SOCIAL_AUTH_QQ_SECRET = 'bazqux'
+# 微信
+SOCIAL_AUTH_WEIXIN_KEY = 'foobar'
+SOCIAL_AUTH_WEIXIN_SECRET = 'bazqux'
+
+SOCIAL_AUTH_LOGIN_REDIRECT_URL = '/index/'
